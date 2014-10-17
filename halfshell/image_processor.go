@@ -25,8 +25,8 @@ import (
 	"math"
 	"strings"
 
-	"github.com/oysterbooks/halfshell/halfshell/util"
 	"github.com/rafikk/imagick/imagick"
+	"gopkg.in/storehouse/halfshell.v1/halfshell/util"
 )
 
 // ImageProcessor is the public interface for the image processor. It exposes a

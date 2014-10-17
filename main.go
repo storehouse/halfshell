@@ -22,8 +22,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/oysterbooks/halfshell/halfshell"
 	"os"
+
+	"gopkg.in/storehouse/halfshell.v1/halfshell"
 )
 
 func main() {
